@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "764825575724",
+    "project_id": "linked-it",
+    "storage_bucket": "linked-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764825575724:android:cd24eccf3e56fc8b528c89",
+        "android_client_info": {
+          "package_name": "com.codex.aly.linkedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764825575724-vrdt4snu2b2ki9liugpidc7mgqjev6m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGlIXSAszLwLhk-PFMTPe1P1sdfQk0w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764825575724-vrdt4snu2b2ki9liugpidc7mgqjev6m0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764825575724-ed9gqu2s91r3ta6aoc7punadr4v1jndk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codex.aly.linkedit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
